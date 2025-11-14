@@ -1,0 +1,35 @@
+body{
+background-color: rgb(47, 47, 121);
+}
+.container{
+width:820px;
+height: 820px;
+margin: 0 auto;
+}
+.h1{
+    color: white;
+}
+.första{
+    height: 400px;
+    width: 400px;
+    float: left;
+    border: 5px solid yellow;
+}
+.andra{
+     height: 400px;
+    width: 400px;
+    float: right;
+     border: 5px solid yellow;
+}
+.tredje{
+     height: 400px;
+    width: 400px;
+    float: left;
+     border: 5px solid yellow;
+}
+.fjärde{
+     height: 400px;
+    width: 400px;
+    float: right;
+     border: 5px solid yellow;
+}
